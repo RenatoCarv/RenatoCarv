@@ -1,4 +1,4 @@
-# Opa! Eu sou Renato, Bem vindo ao meu github!🤙 
+# Opa! Eu sou Renato, Bem vindo ao meu Github!🤙 
 
 <div align="center">
   <a href="https://github.com/renatocarv">
