@@ -1,4 +1,6 @@
-#                             Opa! Eu sou Renato, Bem vindo ao meu Github!🤙 
+#                             Opa! Eu sou Renato, Bem vindo ao meu Github!🤙
+
+#Estudar é a porta para um futuro de muito conhecimento!
 
 <div>
   <a href="https://github.com/renatocarv">
@@ -18,7 +20,7 @@
   
   <div> 
   <a href="https://instagram.com/renatiinho.carvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:renato_carvalho19@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:renatinhosacarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renato-carvalho-a8b168240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
