@@ -1,4 +1,4 @@
-#                             E aiii, sou Renato, Bem vindo ao meu Github!🤙
+#                             E aiii! Sou Renato, bem vindo ao meu Github!🤙
 
 Estudar é a porta para um futuro de muito conhecimento!
 
