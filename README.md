@@ -8,8 +8,7 @@ Estudar é a porta para um futuro de muito conhecimento!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocarv&layout=compact&langs_count=7&theme=neon"/>
 </div>
 
-  ## Tecnologias que eu uso no meu dia
-  
+  ## Tecnologias que tenho conhecimento
   <div style="display: inline_block"><br>
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
