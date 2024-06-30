@@ -17,16 +17,16 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/renatiinho.carvalho/" target="_blank">
-<img align="center" height="70" width="70" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c230457d-1488-4e8c-9b72-ea07fedae043">
+<img align="center" height="69" width="69" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c230457d-1488-4e8c-9b72-ea07fedae043">
 </a>
 
 <a href="mailto:renatinhosacarvalho@gmail.com">
-<img align="center"  height="66" width="66" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/0ebd5217-e6c8-49a7-ac12-8af666c59e55">
+<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/0ebd5217-e6c8-49a7-ac12-8af666c59e55">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/renato-carvalho-a8b168240/" target=_blank>
-<img align="center"  height="66" width="66" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/e6207b01-3fad-4099-abd7-5597d935794c">
+<img align="center"  height="75" width="75" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/e6207b01-3fad-4099-abd7-5597d935794c">
 </a>
 
 </div>
