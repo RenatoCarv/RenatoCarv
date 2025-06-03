@@ -48,19 +48,11 @@
 
 <div align="center"> 
 <img align="center" height="84" width="84" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c1a14816-f359-4b4d-ad8c-633d1f401179">
-
 <img align="center" height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c6379079-54cc-4e96-8b05-89a50ca3fd4b">
-
 <img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/3a166034-48e1-4a27-a661-32517ea4e756">
-
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/aebb2b2a-04e8-4458-9c29-449a6dfea26b">
-
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/73aeefca-288c-431a-a951-f516cf2b03dc">
-
+<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/ebb0c963-4959-4928-bc94-d9b35998f287">
 <img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/0c4cf6cb-b100-4605-a751-3f55aecd5810">
-
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/47beb416-5738-4900-a170-621c7dfe6a9e">
-
+<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/aebb2b2a-04e8-4458-9c29-449a6dfea26b">
 </div>
 
 <br>
@@ -77,11 +69,7 @@
 <div align="center"> 
 
 <img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/ebb0c963-4959-4928-bc94-d9b35998f287">
-
 <img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/73aeefca-288c-431a-a951-f516cf2b03dc">
-
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/d5cc49e0-b006-4616-bf2d-217867f07947">
-
 <img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/e33c8755-d25f-4e80-a03d-05ce539ab0e9">
 
 </div>
