@@ -1,6 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/aa5dd6ec-25f6-4697-a3d1-6677509386ff"/>
-<br>
-<br> 
+
 <br> 
 
 
