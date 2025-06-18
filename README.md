@@ -30,7 +30,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -38,7 +38,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -46,7 +46,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -54,7 +54,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -62,7 +62,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="React"
     title="React" 
     width="30px" 
@@ -70,7 +70,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -78,7 +78,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Angular" 
     title="Angular"
     width="30px" 
@@ -86,7 +86,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -94,7 +94,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -102,7 +102,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -110,7 +110,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Postgresql" 
     title="Postgresql"
     width="30px" 
@@ -118,7 +118,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -136,6 +136,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="400"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RenatoCarv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -144,6 +145,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      width="358"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCarv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
