@@ -127,7 +127,6 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
@@ -136,7 +135,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width="400"
+    width="413"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RenatoCarv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -145,7 +144,7 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      width="358"
+      width="371"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCarv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
