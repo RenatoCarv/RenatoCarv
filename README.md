@@ -28,7 +28,8 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<br/>
+<div>
 <img 
     align="center" 
     alt="HTML"
@@ -125,8 +126,11 @@ Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+</div>
 
 <br/>
+<br/>
+
 
 ### 📊 Estatísticas
 
