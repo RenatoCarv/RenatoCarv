@@ -1,37 +1,156 @@
+# 🧑🏻‍💻 Renato Carvalho
 
-<br> 
+**`Desenvolvedor Frontend`**
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A4EF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Renato;I'm+23+years+old;I'm+a+software+engineering+student;Welcome)](https://git.io/typing-svg)
-
-<br>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RenatoCarv&theme=windows-dark&border_radius=15&card_width=1000&card_height=150)](https://git.io/streak-stats)
-
+<div align="justify">
+Me chamo Renato Carvalho, tenho 24 anos e sou natural de Pernambuco. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software pela Jala University (EUA). Tenho interesse especial por desenvolvimento web, com foco em front-end, e venho me aprofundando em tecnologias como HTML, CSS, JavaScript, React e ferramentas modernas como Tailwind e Git. Acredito que interfaces bem construídas fazem toda a diferença na experiência do usuário, e é isso que busco aplicar nos meus projetos.
 </div>
+
+<br/>
 
 
 <div align="center"> 
 <a href="https://www.instagram.com/renatiinho.carvalho/" target="_blank">
-<img align="center" height="69" width="69" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c230457d-1488-4e8c-9b72-ea07fedae043">
+<img align="center" height="30" width="30" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c230457d-1488-4e8c-9b72-ea07fedae043">
 </a>
 
 <a href="mailto:renatinhosacarvalho@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/0ebd5217-e6c8-49a7-ac12-8af666c59e55">
+<img align="center"  height="42" width="42" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/0ebd5217-e6c8-49a7-ac12-8af666c59e55">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/renato-carvalho-a8b168240/" target=_blank>
-<img align="center"  height="75" width="75" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/e6207b01-3fad-4099-abd7-5597d935794c">
+<img align="center"  height="33" width="33" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/e6207b01-3fad-4099-abd7-5597d935794c">
 </a>
 
 </div>
 
-<br>
-<br>
+---
 
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=RenatoCarv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCarv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+<br/>
+<br/>
 
 <div align="center" >
    
@@ -40,46 +159,9 @@
 </div>
 
 <br>
-
-
-<h2 align="center"> Main Skills: </h2>
-
-<div align="center"> 
-<img align="center" height="84" width="84" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c1a14816-f359-4b4d-ad8c-633d1f401179">
-<img align="center" height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/c6379079-54cc-4e96-8b05-89a50ca3fd4b">
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/3a166034-48e1-4a27-a661-32517ea4e756">
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/ebb0c963-4959-4928-bc94-d9b35998f287">
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/0c4cf6cb-b100-4605-a751-3f55aecd5810">
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/aebb2b2a-04e8-4458-9c29-449a6dfea26b">
-</div>
-
-<br>
 <br> 
-<br>
-<br>
-<br>
-<br> 
-
-
-<h2 align="center"> Studying in this moment: </h2>
-
-
-<div align="center"> 
-
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/ebb0c963-4959-4928-bc94-d9b35998f287">
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/73aeefca-288c-431a-a951-f516cf2b03dc">
-<img align="center"  height="80" width="80" src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/e33c8755-d25f-4e80-a03d-05ce539ab0e9">
-
-</div>
-
-<br>
-<br>
-<br>
-<br>
 
 <div align="center">
-  
-<br>
 
 <p align="centre"><b>Visitors Count</b></p> 
   
@@ -87,10 +169,8 @@
 <br>
 </div>
 
-
 <br>
 <br> 
-
 
 <img width=100% src="https://github.com/RenatoCarv/RenatoCarv/assets/106440297/f643dfb2-230d-4c9e-95b0-879e350e0289"/>
 
